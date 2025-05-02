@@ -64,7 +64,7 @@ Este proyecto tiene como objetivo detectar transacciones fraudulentas utilizando
 - Visualización de clusters usando scatter plots.
 - Se observó que **t-SNE** permite distinguir mejor las transacciones fraudulentas de las normales.
 
-![clusters](./outputs/charts/cluster_reduction_plot.png)
+![clusters](./outputs/charts/cluster-reduction-plot.png)
 
 ## 🧰 Herramientas y Tecnologías
 
