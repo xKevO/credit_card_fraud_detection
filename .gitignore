@@ -1,0 +1,20 @@
+# Entornos virtuales
+.venv-credcard/
+
+# Archivos de Jupyter
+.ipynb_checkpoints/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Datos sensibles (por si cargas datos reales en el futuro)
+*.csv
+*.xlsx
+*.json
+
+# Archivos de logs
+*.log
+
+# Salidas de proyectos
+outputs/
